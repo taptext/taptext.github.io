@@ -24,6 +24,7 @@ jobs:
 
       - name: Build and Deploy
         run: |
+          cd food-recipes
           mkdocs gh-deploy --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
