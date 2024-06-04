@@ -1,0 +1,6 @@
+site_name: Food Recipes
+nav:
+  - Home: 'index.md'
+  - 'Duck':
+      - 'Duck Roast': 'duck-roast.md'
+theme: readthedocs
