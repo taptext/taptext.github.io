@@ -8,7 +8,7 @@
 - **10** cardamom
 - **1** tsp black pepper
 - **5** large onions
-- **10** seedless dried pepper
+- **10** seedless dried red pepper
 - **1** ginger
 - **2** tsp salt
 - **2** tbsp coconut oil

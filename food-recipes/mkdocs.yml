@@ -1,6 +1,8 @@
 site_name: Food Recipes
 nav:
   - Home: 'index.md'
+  - 'Chicken':
+      - 'Chicken Biriyani - Dindigul': 'chicken-biriyani-dindigul.md'
   - 'Duck':
       - 'Duck Roast': 'duck-roast.md'
 theme: readthedocs
