@@ -5,4 +5,6 @@ nav:
       - 'Chicken Biriyani - Dindigul': 'chicken-biriyani-dindigul.md'
   - 'Duck':
       - 'Duck Roast': 'duck-roast.md'
+  - 'Beef' :
+      - 'Beef Vindaloo': 'beef-vindaloo.md'
 theme: readthedocs
